@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+botWhats/__init__.py
+botWhats/__main__.py
+botWhats/bot.py
+botWhats.egg-info/PKG-INFO
+botWhats.egg-info/SOURCES.txt
+botWhats.egg-info/dependency_links.txt
+botWhats.egg-info/requires.txt
+botWhats.egg-info/top_level.txt
+botWhats/resources/start.png
